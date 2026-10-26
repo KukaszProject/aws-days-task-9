@@ -1,2 +1,2 @@
 #!/bin/bash
-pkill -f app.py || true
+pkill -f app.py || true 
